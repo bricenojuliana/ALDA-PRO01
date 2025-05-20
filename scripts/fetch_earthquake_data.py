@@ -10,7 +10,7 @@ BASE_URL = "https://earthquake.usgs.gov/fdsnws/event/1/query"
 # Base parameters for the query
 COMMON_PARAMS = {
     "format": "csv",
-    "minmagnitude": 5.5,
+    "minmagnitude": 3.0,
     "orderby": "time"
 }
 
