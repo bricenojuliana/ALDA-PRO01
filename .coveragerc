@@ -1,0 +1,8 @@
+# .coveragerc
+[run]
+branch = True
+source = coordgen
+
+[report]
+show_missing = True
+skip_covered = True

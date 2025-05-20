@@ -1,0 +1,8 @@
+contextily
+matplotlib
+numpy
+pandas
+pytest
+requests
+scikit-learn
+seaborn
