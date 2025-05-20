@@ -23,7 +23,7 @@ X = df[["latitude", "longitude", "depth"]].values
 coord_kde = KernelDensity(bandwidth=0.3, kernel='gaussian')
 coord_kde.fit(X)
 
-# KDE para magnitud (1D)
+# KDE for magnitude (1D)
 mag_kde = KernelDensity(bandwidth=0.1, kernel='gaussian')
 mag_kde.fit(df[["mag"]])
 
