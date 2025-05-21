@@ -144,6 +144,9 @@ python -m pytest
 
 Este generador proporciona datos sintéticos de terremotos que siguen patrones reales observados. Es útil para entrenamiento de modelos, pruebas de pipelines analíticos y propósitos educativos. No reemplaza datos reales ni modelos geofísicos, pero representa una base sólida para análisis reproducible y exploración de datos sísmicos.
 
+## Autora
+Juliana Briceño Castro
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
